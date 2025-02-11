@@ -15,7 +15,3 @@ Deskripsi singkat tentang proyek ini. Bisa berupa tujuan, teknologi yang digunak
 
 Hak cipta © 2024 M. Adib Tantowi Jauhari. Semua hak dilindungi.  
 Website ini tidak boleh diklaim atau digunakan tanpa izin dari pembuatnya.  
-
----
-
-🚀 *Dukung proyek ini dengan memberikan ⭐ di GitHub!*  
